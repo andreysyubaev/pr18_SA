@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enterlogin">enter login</string>
+    <string name="enterpassword">enter password</string>
+    <string name="needlogin">Введите логин</string>
+    <string name="needpassword">Введите пароль</string>
+</resources>
